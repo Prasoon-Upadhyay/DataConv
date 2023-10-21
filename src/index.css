@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #180A0A;
+    color: #fff;
+    font-family: 'Karla', sans-serif;
+} 
+ 
+.customColor{
+    background-color: #180A0A;
+    color: #fff;
+}
+
+input{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #180A0A;
+}
+
+option:hover{
+    background-color: #fff;
+}
